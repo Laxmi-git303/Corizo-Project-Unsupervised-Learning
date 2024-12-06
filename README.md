@@ -1,1 +1,2 @@
-# Corizo-Project-Unsupervised-Learning
+Project - Customer Segmentation Using Unsupervised Learning
+ABSTRACT
